@@ -1,0 +1,8 @@
+.box * {
+    width: 32px;
+    height: 32px;
+    padding: 8px;
+    border: 4px solid black;
+    border-radius: 32px;
+    background-color: rgb(141, 145, 145);
+}
